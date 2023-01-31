@@ -21,9 +21,17 @@ mvn clean test
 
 
 src/main/java
+
+
 = com.qa.base > Test Base file to initiate all common functionalities
+
+
 = com.qa.util > Test Util file to invoke all utilities to handle the test 
+
+
 = com.qa.pages > Page based WebElement init and functionalities call
+
+
 = com.qa.config > Properties file
 
 
