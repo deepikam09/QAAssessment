@@ -7,13 +7,19 @@ Dependency Java Maven
 ###libraries used Selenium TestNG 
 
 Steps to clone execute the tests
+
+
 git clone https://github.com/deepikam09/QAAssessment
+
+
 mvn clean test
 
 
 
 
 ############Test Script###########
+
+
 src/main/java
 = com.qa.base > Test Base file to initiate all common functionalities
 = com.qa.util > Test Util file to invoke all utilities to handle the test 
